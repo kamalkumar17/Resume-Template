@@ -15,7 +15,7 @@ bash
 Insert Code
 Edit
 Copy code
-git clone https://github.com/yourusername/resume-template.git
+git clone https://github.com/kamalkumar17/Resume-Template.git
 cd resume-template
 Open the HTML File: Open index.html in your preferred web browser to view the template.
 
